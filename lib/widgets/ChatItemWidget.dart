@@ -5,7 +5,11 @@ import 'package:intl/intl.dart';
 class ChatItemWidget extends StatelessWidget{
   final int index;
 
+<<<<<<< HEAD
   const ChatItemWidget(this.index);
+=======
+ const ChatItemWidget(this.index);
+>>>>>>> fb04bed... Tests for Conversation Page
 
   @override
   Widget build(BuildContext context) {

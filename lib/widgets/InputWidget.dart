@@ -5,7 +5,12 @@ class InputWidget extends StatelessWidget {
 
   final TextEditingController textEditingController = TextEditingController();
 
+<<<<<<< HEAD
   InputWidget();
+=======
+
+   InputWidget();
+>>>>>>> fb04bed... Tests for Conversation Page
 
   @override
   Widget build(BuildContext context) {
