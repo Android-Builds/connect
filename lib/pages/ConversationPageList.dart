@@ -5,12 +5,9 @@ class ConversationPageList extends StatefulWidget {
 
   @override
   _ConversationPageListState createState() => _ConversationPageListState();
-<<<<<<< HEAD
-  const ConversationPageList();
-=======
 
  const ConversationPageList();
->>>>>>> fb04bed... Tests for Conversation Page
+
 }
 
 class _ConversationPageListState extends State<ConversationPageList> {
