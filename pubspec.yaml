@@ -18,6 +18,8 @@ environment:
 
 dependencies:
   intl: ^0.15.7
+  image_picker: ^0.6.1+4
+  file_picker: ^1.4.0+1
   flutter:
     sdk: flutter
 
