@@ -1,3 +1,3 @@
-//class Assets{
-//  static String user = 'assets/user.png';
-//}
+class Assets{
+  static String user = 'assets/user.png';
+}
