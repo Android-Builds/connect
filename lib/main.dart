@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'pages/ConversationPageList.dart';
 
-void main() => runApp(connect());
+void main() => runApp(Connect());
 
-class connect extends StatelessWidget {
+class Connect extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
