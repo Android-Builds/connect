@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:connect/pages/ConversationPage.dart';
-import 'package:connect/widgets/ChatAppBar.dart';
-import 'package:connect/widgets/ChatListWidget.dart';
-import 'package:connect/widgets/InputWidget.dart';
+import 'package:messio/pages/ConversationPage.dart';
+import 'package:messio/widgets/ChatAppBar.dart';
+import 'package:messio/widgets/ChatListWidget.dart';
+import 'package:messio/widgets/InputWidget.dart';
 
 void main(){
   const MaterialApp app = MaterialApp(

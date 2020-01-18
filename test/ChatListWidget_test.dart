@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:connect/main.dart';
+import 'package:messio/main.dart';
 
 void main(){
   testWidgets('ChatListWidget UI Test', (WidgetTester tester) async {
