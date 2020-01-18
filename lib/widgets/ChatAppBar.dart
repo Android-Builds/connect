@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:connect/config/Assets.dart';
-import 'package:connect/config/Palette.dart';
+import 'package:messio/config/Assets.dart';
+import 'package:messio/config/Palette.dart';
 
 class ChatAppBar extends StatelessWidget implements PreferredSizeWidget {
   final double height = 100;

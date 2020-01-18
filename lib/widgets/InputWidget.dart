@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:connect/config/Palette.dart';
+import 'package:messio/config/Palette.dart';
 
 class InputWidget extends StatelessWidget {
 
